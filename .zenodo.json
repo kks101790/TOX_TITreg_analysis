@@ -12,8 +12,7 @@
     { "name": "Ha, Sang-Jun", "affiliation": "Yonsei University" }
   ],
   "related_identifiers": [
-    { "relation": "isSupplementTo", "scheme": "doi", "identifier": "10.0000/XXXXX (manuscript DOI - fill on acceptance)" },
-    { "relation": "references", "scheme": "geo", "identifier": "GSE152022" },
-    { "relation": "references", "scheme": "geo", "identifier": "GSE164033" }
+    { "relation": "references", "scheme": "url", "identifier": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE152022" },
+    { "relation": "references", "scheme": "url", "identifier": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE164033" }
   ]
 }
