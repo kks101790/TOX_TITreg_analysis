@@ -1,5 +1,7 @@
 # TOX TI-Treg — single-cell & ATAC-seq analysis code
 
+[![DOI](https://zenodo.org/badge/1277810034.svg)](https://doi.org/10.5281/zenodo.20810031)
+
 Analysis code for **"TOX enforces the immunosuppressive program of tumor-infiltrating regulatory T cells"**
 (Park et al., *Nature Immunology*). This repository contains the single-cell RNA-seq, single-cell V(D)J,
 and bulk ATAC-seq analysis used to generate the computational figures.

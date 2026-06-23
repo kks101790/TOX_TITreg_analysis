@@ -14,8 +14,8 @@ tumour-bearing lung are available under GEO accession **GSE152022**. Mass cytome
 
 ## Code Availability
 Custom analysis code for the single-cell RNA-seq, scVDJ-seq, and bulk ATAC-seq analyses is available
-at GitHub (**https://github.com/[USER]/TOX_TITreg_analysis**) and archived at Zenodo
-(**https://doi.org/10.5281/zenodo.[XXXXXXX]**). Analyses were performed with standard packages as
+at GitHub (**https://github.com/kks101790/TOX_TITreg_analysis**) and archived at Zenodo
+(**https://doi.org/10.5281/zenodo.20810031**). Analyses were performed with standard packages as
 described in Methods: Seurat v4.0.5, GSVA v1.38.2, clusterProfiler v3.18.1, ggvenn v0.1.10,
 pheatmap v1.0.12 (scRNA/scVDJ; R 4.0.5); ChIPseeker v1.40.0, trackViewer v1.40.0, csaw v1.38.0,
 TxDb.Mmusculus.UCSC.mm10.knownGene v3.10.0 (ATAC; R 4.4.1); MACS2 v2.2, and TOBIAS v0.17.0 with
