@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the manuscript and this software."
+title: "Analysis code for: TOX enforces the immunosuppressive program of tumor-infiltrating regulatory T cells"
+authors:
+  - family-names: Kim
+    given-names: Kyungsoo
+    affiliation: "Yonsei University College of Medicine"
+  - family-names: Ha
+    given-names: Sang-Jun
+    affiliation: "Yonsei University"
+license: MIT
+type: software
+repository-code: "https://github.com/USER/TOX_TITreg_analysis_repo"  # fill in
+preferred-citation:
+  type: article
+  title: "TOX enforces the immunosuppressive program of tumor-infiltrating regulatory T cells"
+  authors:
+    - family-names: Park
+      given-names: Seyeon
+    - family-names: Kim
+      given-names: Kyungsoo
+    - family-names: Ha
+      given-names: Sang-Jun
+  journal: "Nature Immunology"
+  year: 2026

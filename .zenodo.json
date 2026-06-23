@@ -1,0 +1,19 @@
+{
+  "title": "Analysis code for: TOX enforces the immunosuppressive program of tumor-infiltrating regulatory T cells",
+  "description": "Single-cell RNA-seq, single-cell V(D)J, and bulk ATAC-seq analysis code for Park et al., Nature Immunology. Covers Fig 1c-f, Fig 6, Fig 7, and Extended Data 7-9. Does not include CyTOF/flow analyses (performed by other authors).",
+  "upload_type": "software",
+  "license": "MIT",
+  "keywords": [
+    "TOX", "regulatory T cells", "Treg", "tumor immunology",
+    "single-cell RNA-seq", "scVDJ-seq", "ATAC-seq", "TOBIAS", "Seurat", "mouse"
+  ],
+  "creators": [
+    { "name": "Kim, Kyungsoo", "affiliation": "Yonsei University College of Medicine" },
+    { "name": "Ha, Sang-Jun", "affiliation": "Yonsei University" }
+  ],
+  "related_identifiers": [
+    { "relation": "isSupplementTo", "scheme": "doi", "identifier": "10.0000/XXXXX (manuscript DOI - fill on acceptance)" },
+    { "relation": "references", "scheme": "geo", "identifier": "GSE152022" },
+    { "relation": "references", "scheme": "geo", "identifier": "GSE164033" }
+  ]
+}

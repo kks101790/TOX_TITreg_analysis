@@ -1,0 +1,13 @@
+# Key software versions (cited in Methods / Code Availability)
+## scRNA/scVDJ env  — R 4.0.5
+Seurat 4.0.5; SeuratObject 4.0.4; Matrix 1.4-0; future 1.33.0;
+GSVA 1.38.2; clusterProfiler 3.18.1; ggvenn 0.1.10; pheatmap 1.0.12; GenomicRanges 1.42.0; dplyr
+## ATAC env — R 4.4.1
+ChIPseeker 1.40.0; trackViewer 1.40.0; csaw 1.38.0;
+TxDb.Mmusculus.UCSC.mm10.knownGene 3.10.0; clusterProfiler 4.12.6;
+GenomicRanges 1.56.2; rtracklayer 1.64.0; ggplot2 3.5.1; ggrepel 0.9.6
+## ATAC command-line
+MACS2 2.2.x (broad peaks); TOBIAS 0.17.0 (ATACorrect/FootprintScores/BINDetect);
+JASPAR2024 CORE non-redundant motifs; genome mm10
+## single-cell demux
+10x Cell Ranger (Next GEM Single Cell 5' v2)

@@ -1,0 +1,28 @@
+# Data & large files — keep code-only; data go to GEO (see README Data availability)
+*.fastq
+*.fastq.gz
+*.bam
+*.bai
+*.bw
+*.bigWig
+*.bedGraph
+*.h5
+*.rds
+*.RData
+*.mtx
+*.mtx.gz
+Data/
+data/
+Results/
+results/
+
+# R / session
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# OS / editor
+.DS_Store
+__MACOSX/
+*.swp
