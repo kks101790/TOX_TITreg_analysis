@@ -4,6 +4,8 @@ suppressMessages(library(ggplot2))
 suppressMessages(library(ggrepel))
 suppressMessages(library(stringr))
 suppressMessages(library(gridExtra))
+suppressMessages(library(clusterProfiler))
+suppressMessages(library(enrichplot))
 
 # =============================================================================
 # ATAC-seq peak annotation (ChIPseeker) + locus tracks (trackViewer)
